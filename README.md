@@ -4,10 +4,10 @@
 
 Here it is to some things about me:
 
-- I am currently working on Process Analysis and studying Process Management
+- I am currently working on Process Analysis and studying Process Management.
 
-- At the moment a Full Stack Developer Java student...
+- At the moment a Full Stack Developer Java student.
 
-- I am from São Paulo, Brazil
+- I am from São Paulo, Brazil.
 
 Pleasure! 😄
